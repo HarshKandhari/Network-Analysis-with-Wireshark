@@ -15,7 +15,7 @@ This an introduction to Wireshark and how network analysis can be carried out us
 
 <h2>Program walk-through:</h2>
 
-<h3>Wireshark and it's basic functionalities</h3>
+- <h4>Wireshark and it's basic functionalities</h4>
 <br />
 <p align="center">
 Wireshark Interface: <br/>
