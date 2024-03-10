@@ -42,6 +42,9 @@ Stopping the network capture:  <br/>
 <img src="https://i.imgur.com/cUC7a7A.png" height="60%" width="60%"/>
 </p>
 
+- <h4>Generate and capture RADIUS traffic</h4>
+<br />
+
 <!--
  ```diff
 - text in red
